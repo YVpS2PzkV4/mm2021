@@ -1,0 +1,16 @@
+Dataflash.c:52:6:log_output	32	static
+Dataflash.c:99:6:param_read	16	static
+Dataflash.c:141:6:map_copy	8	static
+Dataflash.c:149:6:map_view	40	static
+Dataflash.c:198:6:FLASH_WaitBusy	0	static
+Dataflash.c:206:6:FLASH_Erase	0	static
+Dataflash.c:217:6:FLASH_Erase2	0	static
+Dataflash.c:33:6:log_erase	8	static
+Dataflash.c:230:6:FLASH_WriteByte	8	static
+Dataflash.c:251:6:FLASH_WriteData	24	static
+Dataflash.c:271:6:FLASH_AddWriteData	24	static
+Dataflash.c:43:6:log_write	16	static
+Dataflash.c:126:6:map_write2	8	static
+Dataflash.c:111:6:map_write	0	static
+Dataflash.c:84:6:param_write	8	static
+Dataflash.c:289:6:FLASH_ReadData	0	static

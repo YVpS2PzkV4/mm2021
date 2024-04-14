@@ -1,0 +1,16 @@
+map.c:128:6:queue_push	8	static
+map.c:137:16:queue_pop	0	static
+map.c:147:6:queue_push2	8	static
+map.c:157:7:numOfWalls	0	static
+map.c:162:7:closeDeadEnd	48	static
+map.c:236:6:mapCtrlZ	28	static
+map.c:266:6:make_map_known	8	static
+map.c:276:6:recovery_from_crash	20	static
+map.c:292:6:goalwallset	16	static
+map.c:354:6:clearmap2	12	static
+map.c:392:6:mapsave	0	static
+map.c:402:6:recoverymap	0	static
+map.c:543:5:getwalldata	72	static
+map.c:412:6:makemap	24	static
+map.c:316:6:clearmap	20	static
+map.c:1443:6:makesmap	64	static

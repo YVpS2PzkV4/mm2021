@@ -1,0 +1,2 @@
+ir_sensor.c:12:6:HAL_ADC_ConvCpltCallback	0	static
+ir_sensor.c:20:6:Sensor_Initialize	0	static

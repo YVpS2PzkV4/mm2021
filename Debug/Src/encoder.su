@@ -1,0 +1,6 @@
+encoder.c:15:6:ENC_R_Write1byte	24	static
+encoder.c:29:10:ENC_R_Read1byte	24	static
+encoder.c:50:6:ENC_L_Write1byte	24	static
+encoder.c:64:10:ENC_L_Read1byte	24	static
+encoder.c:85:10:ENC_R_GetAngle	8	static
+encoder.c:91:10:ENC_L_GetAngle	8	static

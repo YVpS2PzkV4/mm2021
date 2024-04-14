@@ -1,0 +1,17 @@
+run.c:219:6:motor_setVoltage	24	static
+run.c:251:6:straight	32	static
+run.c:358:6:straight3	80	static
+run.c:241:6:go	0	static
+run.c:554:6:straight2	72	static
+run.c:663:6:runoffseta	8	static
+run.c:730:6:runoffsetb	12	static
+run.c:818:6:back	16	static
+run.c:889:6:turn	40	static
+run.c:1366:6:f_wall	16	static
+run.c:983:6:sla	56	static
+run.c:1099:6:sla2	40	static
+run.c:1255:6:sla3	64	static
+run.c:1391:6:party	24	static
+run.c:1419:6:tracelog	0	static
+run.c:1423:6:turn_fwall	16	static
+run.c:1464:6:turn_fwall2	16	static

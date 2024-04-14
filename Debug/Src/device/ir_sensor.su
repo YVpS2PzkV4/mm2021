@@ -1,0 +1,4 @@
+ir_sensor.c:14:6:HAL_ADC_ConvCpltCallback	0	static
+ir_sensor.c:22:6:Sensor_Initialize	8	static
+ir_sensor.c:31:10:Sensor_GetBatteryValue	0	static
+ir_sensor.c:39:9:Sensor_GetValue	0	static

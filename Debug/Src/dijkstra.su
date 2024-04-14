@@ -1,0 +1,6 @@
+dijkstra.c:133:6:runTimeCalc	192	static
+dijkstra.c:273:6:map_to_maze	16	static
+dijkstra.c:300:6:nodereset	32	static
+dijkstra.c:2909:6:infoup	20	static
+dijkstra.c:316:6:shortest	80	static
+dijkstra.c:2927:6:path_reverse	40	static

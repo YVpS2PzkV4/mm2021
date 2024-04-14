@@ -1,0 +1,7 @@
+beeline.c:2370:6:makesaitan	48	static
+beeline.c:2479:6:saitan_to_path	36	static
+beeline.c:2691:6:waitForEdge	16	static
+beeline.c:2725:6:turnWallEdge	64	static
+beeline.c:3311:6:edge_reverse	24	static
+beeline.c:304:6:saitan_shortest	96	static
+beeline.c:3337:6:setpara	0	static

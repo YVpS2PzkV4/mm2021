@@ -1,0 +1,2 @@
+motor.c:18:6:Motor_Initialize	16	static
+motor.c:30:6:Motor_StopPWM	0	static

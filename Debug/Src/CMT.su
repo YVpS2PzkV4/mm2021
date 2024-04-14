@@ -1,0 +1,6 @@
+CMT.c:376:16:getEncTable	16	static
+CMT.c:432:6:resetCurrent	20	static
+CMT.c:448:6:intrpt1	56	static
+CMT.c:1037:6:intrpt2	64	static
+CMT.c:1341:6:intrpt3	72	static
+CMT.c:3655:6:wait_ms	8	static
